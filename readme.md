@@ -9,6 +9,10 @@ Redis3.2
 
 Laravel5.7
 
+数据库文件vue_element_admin.sql
+
+账号：admin   密码：bigfool.cn
+
 ## 安装
 ```shell
 git clone https://github.com/bigfool-cn/vue-element-admin-simple-laravel.git
