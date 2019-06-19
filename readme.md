@@ -2,8 +2,11 @@
 
 ## 环境
 PHP7.2
+
 MySQL5.7
+
 Redis3.2
+
 Laravel5.7
 
 ## 安装
