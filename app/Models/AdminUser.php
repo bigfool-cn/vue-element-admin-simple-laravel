@@ -34,6 +34,7 @@ class AdminUser extends Model
 
     /**
      * 关闭自动更新时间字段
+     
      * @var bool
      */
     public $timestamps = false;
