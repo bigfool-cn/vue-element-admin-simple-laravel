@@ -94,7 +94,7 @@ class AdminUser extends Model
      */
     public function getAdminUser($condition=array())
     {
-        $data = self::where($condition)->with('roles')->first()->makeVisible('password');
+        $data = self::where($condition)->with('roles')->first();
         return $data;
     }
 
